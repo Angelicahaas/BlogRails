@@ -1,3 +1,3 @@
 # README
 
-Repositório destinado a um Projeto em RUBy on Rails
+Repositório destinado a um Projeto em Ruby on Rails
